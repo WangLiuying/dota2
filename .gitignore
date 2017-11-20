@@ -1,2 +1,10 @@
 
 *.csv
+*.png
+.Rhistory
+*.css
+*.js
+*.map
+*.txt
+arules_files/plotlyjs-1.29.2/LICENSE
+arules_files/typedarray-0.1/LICENSE
